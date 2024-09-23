@@ -19,8 +19,6 @@ candies.py: https://www.hackerrank.com/challenges/candies/problem?isFullScreen=t
 
 sam_and_substrings.py: https://www.hackerrank.com/challenges/sam-and-substrings/problem?isFullScreen=true
 
-modified_fibonacci.py: https://www.hackerrank.com/challenges/fibonacci-modified/problem?isFullScreen=true
-
 abbreviation.py: https://www.hackerrank.com/challenges/abbr/problem?isFullScreen=true
 
 hackerrank_city.py: https://www.hackerrank.com/challenges/hr-city/problem?isFullScreen=true
@@ -28,8 +26,6 @@ hackerrank_city.py: https://www.hackerrank.com/challenges/hr-city/problem?isFull
 summing_pieces.py: https://www.hackerrank.com/challenges/summing-pieces/problem?isFullScreen=true
 
 maximum_subarray.py: https://www.hackerrank.com/challenges/maxsubarray/problem?isFullScreen=true
-
-fair_cut.py: https://www.hackerrank.com/challenges/fair-cut/problem?isFullScreen=true
 
 mr_k_marsh.py: https://www.hackerrank.com/challenges/mr-k-marsh/problem?isFullScreen=true
 

@@ -1,7 +1,7 @@
 # HackerRank-Practice
 Practice problems I did to train my algorithm writing skills
 
-Sections include graph theory and dynamic programming.
+Topics include greedy, graph theory, and dynamic programming.
 
 Below are the links to the problems on HackerRank:
 
